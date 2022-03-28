@@ -1,0 +1,80 @@
+[
+  {
+    "name": "propertyId",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Property Id"
+  },
+  {
+    "name": "customerId",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Customer Id"
+  },
+  {
+    "name": "address",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Property Address"
+  },
+  {
+    "name": "town",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Property Town"
+  },
+  {
+    "name": "county",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Property County"
+  },
+  {
+    "name": "postCode",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Property Postcode"
+  },
+  {
+    "name": "propertyAge",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Property Age"
+  },
+  {
+    "name": "propertyType",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Property Type"
+  },
+  {
+    "name": "totalRooms",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Property Total Rooms"
+  },
+  {
+    "name": "totalBedrooms",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Property Total Bedrooms"
+  },
+  {
+    "name": "propertyArea",
+    "type": "FLOAT",
+    "mode": "NULLABLE",
+    "description": "Property Area"
+  },
+  {
+    "name": "priceSold",
+    "type": "FLOAT",
+    "mode": "NULLABLE",
+    "description": "Property Sold"
+  },
+  {
+    "name": "dateSold",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Property Date Sold"
+  }
+]
